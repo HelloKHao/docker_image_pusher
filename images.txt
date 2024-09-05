@@ -10,3 +10,4 @@ logstash:8.4.3
 apache/seata-server:2.1.0
 nacos/nacos-server:v2.3.0
 mysql:latest
+apache/rocketmq:latest
