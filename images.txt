@@ -13,3 +13,5 @@ mysql:latest
 # RocketMQ
 apache/rocketmq:5.3.0
 apacherocketmq/rocketmq-dashboard
+# nacos最新版本
+nacos/nacos-server:latest
